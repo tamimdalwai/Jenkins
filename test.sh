@@ -1,1 +1,1 @@
-systemctl enable httpd
+systemctl restart httpd
